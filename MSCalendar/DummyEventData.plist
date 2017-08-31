@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>31-08-2017</key>
+	<dict>
+		<key>Title</key>
+		<string>New Event 1</string>
+		<key>Participants</key>
+		<array>
+			<string>https://raw.githubusercontent.com/Ashwinvalento/cartoon-avatar/master/lib/images/male/45.png</string>
+			<string>https://raw.githubusercontent.com/Ashwinvalento/cartoon-avatar/master/lib/images/female/45.png</string>
+			<string>https://raw.githubusercontent.com/Ashwinvalento/cartoon-avatar/master/lib/images/male/45.png</string>
+		</array>
+		<key>Location</key>
+		<string>New York</string>
+		<key>Time</key>
+		<string>8:30 PM</string>
+		<key>Duration</key>
+		<string>1h</string>
+	</dict>
+	<key>01-08-2017</key>
+	<dict>
+		<key>Title</key>
+		<string>New Event 2</string>
+		<key>Location</key>
+		<string>California</string>
+		<key>Time</key>
+		<string>6:30 PM</string>
+		<key>Duration</key>
+		<string>30m</string>
+	</dict>
+	<key>15-08-2017</key>
+	<dict>
+		<key>Title</key>
+		<string>New Event 3</string>
+		<key>Participants</key>
+		<array>
+			<string>https://raw.githubusercontent.com/Ashwinvalento/cartoon-avatar/master/lib/images/male/45.png</string>
+			<string>https://raw.githubusercontent.com/Ashwinvalento/cartoon-avatar/master/lib/images/male/45.png</string>
+			<string>https://raw.githubusercontent.com/Ashwinvalento/cartoon-avatar/master/lib/images/male/45.png</string>
+		</array>
+		<key>Location</key>
+		<string>Bangalore</string>
+		<key>Time</key>
+		<string>4:30 PM</string>
+		<key>Duration</key>
+		<string>15m</string>
+	</dict>
+	<key>10-09-2017</key>
+	<dict>
+		<key>Title</key>
+		<string>New Event 4</string>
+		<key>Location</key>
+		<string>Hyderabad</string>
+		<key>Time</key>
+		<string>2:30 PM</string>
+		<key>Duration</key>
+		<string>1h</string>
+	</dict>
+	<key>01-11-2017</key>
+	<dict>
+		<key>Title</key>
+		<string>New Event 5</string>
+		<key>Location</key>
+		<string>Noida</string>
+		<key>Time</key>
+		<string>1:30 PM</string>
+		<key>Duration</key>
+		<string>45m</string>
+	</dict>
+	<key>30-11-2017</key>
+	<dict>
+		<key>Title</key>
+		<string>New Event 6</string>
+		<key>Location</key>
+		<string>Chennai</string>
+		<key>Time</key>
+		<string>10:30 AM</string>
+		<key>Duration</key>
+		<string>9h</string>
+	</dict>
+</dict>
+</plist>
